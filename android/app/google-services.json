@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713591840698",
+    "firebase_url": "https://lex-car-wash.firebaseio.com",
+    "project_id": "lex-car-wash",
+    "storage_bucket": "lex-car-wash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713591840698:android:c2491de5e495dfd468c783",
+        "android_client_info": {
+          "package_name": "com.doomshell.lexcarwash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713591840698-ulo7hjm2dn8hjpti483jac357bijo4ln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXgSqYs_9pwSmjKP30mqmsOTMCDjUboE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713591840698-ulo7hjm2dn8hjpti483jac357bijo4ln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
