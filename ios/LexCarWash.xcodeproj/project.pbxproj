@@ -447,7 +447,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.doomshell.lexcarwash";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lexcarwash";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lexcarwash.app/lexcarwash";
 			};
@@ -471,7 +471,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.doomshell.lexcarwash";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lexcarwash";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/lexcarwash.app/lexcarwash";
 			};
@@ -496,7 +496,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.doomshell.lexcarwash";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lexcarwash";
 				PRODUCT_NAME = "lexcarwash";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -522,7 +522,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "com.doomshell.lexcarwash";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.lexcarwash";
 				PRODUCT_NAME = "lexcarwash";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";

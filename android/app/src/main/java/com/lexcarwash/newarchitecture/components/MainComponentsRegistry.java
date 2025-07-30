@@ -1,4 +1,4 @@
-package com.doomshell.lexcarwash.newarchitecture.components;
+package com.lexcarwash.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

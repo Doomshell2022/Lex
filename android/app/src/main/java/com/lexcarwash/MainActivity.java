@@ -1,5 +1,6 @@
-package com.doomshell.lexcarwash;
+package com.lexcarwash;
 
+import com.doomshell.lexcarwash.BuildConfig;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
 import com.facebook.react.ReactRootView;

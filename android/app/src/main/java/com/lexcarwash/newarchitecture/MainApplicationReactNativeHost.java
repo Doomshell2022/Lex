@@ -1,7 +1,9 @@
-package com.doomshell.lexcarwash.newarchitecture;
+package com.lexcarwash.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
+
+import com.facebook.react.BuildConfig;
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactInstanceManager;
 import com.facebook.react.ReactNativeHost;
@@ -19,9 +21,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.doomshell.lexcarwash.BuildConfig;
-import com.doomshell.lexcarwash.newarchitecture.components.MainComponentsRegistry;
-import com.doomshell.lexcarwash.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+
+import com.lexcarwash.newarchitecture.components.MainComponentsRegistry;
+import com.lexcarwash.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
